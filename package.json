@@ -1,0 +1,32 @@
+{
+  "name": "el-hbs",
+  "version": "1.0.1",
+  "description": "The Engagement Lab's core Handlebars.js helpers library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engagementlab/el-hbs.git"
+  },
+  "keywords": [
+    "handlebars",
+    "js",
+    "express",
+    "node"
+  ],
+  "author": "Johnny Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engagementlab/el-hbs/issues"
+  },
+  "homepage": "https://github.com/engagementlab/el-hbs#readme",
+  "dependencies": {
+    "cloudinary": "1.14.0",
+    "moment": "2.24.0",
+    "pluralize": "8.0.0",
+    "random-number": "0.0.9",
+    "underscore": "1.9.1"
+  }
+}
